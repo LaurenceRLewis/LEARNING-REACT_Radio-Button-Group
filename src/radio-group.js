@@ -55,7 +55,7 @@ const RadioGroup = () => {
         />
         <label htmlFor="horse">Horse</label>
       </fieldset>
-      <div id="error-message" role="alert" style={{ color: "red" }}>
+      <div id="error-message" style={{ color: "red" }}>
         {error}
       </div>
       <br />
