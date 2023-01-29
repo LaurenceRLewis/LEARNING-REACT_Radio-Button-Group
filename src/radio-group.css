@@ -1,0 +1,11 @@
+:root {
+  --radio-color: #333;
+  --radio-background: #fff;
+  --radio-border-color: #333;
+}
+
+input[type="radio"] {
+  color: var(--radio-color);
+  background-color: var(--radio-background);
+  border: 1px solid var(--radio-border-color);
+}
