@@ -4,6 +4,12 @@
   --radio-border-color: #333;
 }
 
+body {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 1em;
+}
+
 input[type="radio"] {
   color: var(--radio-color);
   background-color: var(--radio-background);

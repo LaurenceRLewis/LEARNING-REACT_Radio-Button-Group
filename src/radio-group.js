@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./radio-group.css";
+import "./button-styles.css";
 
 const RadioGroup = () => {
   const [selectedOption, setSelectedOption] = useState("");
@@ -23,7 +24,9 @@ const RadioGroup = () => {
   return (
     <form>
       <fieldset>
-        <legend>My favourite animal</legend>
+        <legend>
+          <h2>My Favourite Animal</h2>
+        </legend>
         <input
           type="radio"
           id="cat"
@@ -59,10 +62,10 @@ const RadioGroup = () => {
         {error}
       </div>
       <br />
-      <button type="submit" onClick={handleSubmit}>
+      <button className="btn--edit" type="submit" onClick={handleSubmit}>
         Submit
       </button>
-      <button type="reset" onClick={handleReset}>
+      <button className="btn--save" type="reset" onClick={handleReset}>
         Reset
       </button>
     </form>
