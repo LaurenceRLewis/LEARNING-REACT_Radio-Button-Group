@@ -1,5 +1,11 @@
 # LEARNING-REACT_Radio-Button-Group
+
+**This is my attempt at learning REACT. There are many bugs in these components and they MUST not be copied for use in production.**
+
+Working example on Netify:
+
 ## Steps used to build the component
+
 1. Import the necessary React components from the React library.
 2. Create a RadioGroup component as a class component or functional component.
 3. Use the fieldset and legend HTML elements to group the radio buttons and label the group with "My favourite animal".
