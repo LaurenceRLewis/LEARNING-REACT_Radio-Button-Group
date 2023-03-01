@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f3c6836.css",
-    "main.js": "/static/js/main.a366a223.js",
-    "static/js/787.93fd1e2f.chunk.js": "/static/js/787.93fd1e2f.chunk.js",
-    "index.html": "/index.html",
-    "main.3f3c6836.css.map": "/static/css/main.3f3c6836.css.map",
-    "main.a366a223.js.map": "/static/js/main.a366a223.js.map",
-    "787.93fd1e2f.chunk.js.map": "/static/js/787.93fd1e2f.chunk.js.map"
+    "main.css": "/LEARNING-REACT_Radio-Button-Group/static/css/main.3f3c6836.css",
+    "main.js": "/LEARNING-REACT_Radio-Button-Group/static/js/main.3c52a662.js",
+    "static/js/787.93fd1e2f.chunk.js": "/LEARNING-REACT_Radio-Button-Group/static/js/787.93fd1e2f.chunk.js",
+    "index.html": "/LEARNING-REACT_Radio-Button-Group/index.html",
+    "main.3f3c6836.css.map": "/LEARNING-REACT_Radio-Button-Group/static/css/main.3f3c6836.css.map",
+    "main.3c52a662.js.map": "/LEARNING-REACT_Radio-Button-Group/static/js/main.3c52a662.js.map",
+    "787.93fd1e2f.chunk.js.map": "/LEARNING-REACT_Radio-Button-Group/static/js/787.93fd1e2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f3c6836.css",
-    "static/js/main.a366a223.js"
+    "static/js/main.3c52a662.js"
   ]
 }
